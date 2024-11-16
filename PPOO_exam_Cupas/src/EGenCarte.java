@@ -1,0 +1,3 @@
+public enum EGenCarte {
+    AVENTURA,COMEDIE,ROMANTIC,POVESTE_COPII;
+}
